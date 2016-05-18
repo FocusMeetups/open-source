@@ -4,6 +4,8 @@
 
 # Open-Source
 
+[![Join the chat at https://gitter.im/FocusMeetups/open-source](https://badges.gitter.im/FocusMeetups/open-source.svg)](https://gitter.im/FocusMeetups/open-source?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Projetos open-source dos desenvolvedores do Grupo Focusnetworks
 
 ## Propósito e Organização
